@@ -19,7 +19,7 @@ This repository is an excellent resource for professionals and students looking 
 6. Data Analytics
 
 ## Project Architecture:
-[((https://github.com/Talpasaiprasad/sql-data-warehouse-project/blob/main/docs/data_architecture.png))]
+[Architecture][https://github.com/Talpasaiprasad/sql-data-warehouse-project/blob/main/docs/data_architecture.png]
 
 ## Project Requirements
 ### Building the Data Warehouse (Data Engineering)
